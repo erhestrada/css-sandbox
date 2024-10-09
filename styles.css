@@ -1,0 +1,10 @@
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+#nav-bar h1, #nav-bar h2 , #nav-bar p{
+    display: inline-block;
+    font-size: 2rem;
+  }
